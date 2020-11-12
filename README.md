@@ -2,7 +2,6 @@
 Exercise for MSCH-C220, 10 November 2020
 
 A simple networked game
-I replace the capsules with the animated characters
 
 ## Implementation
 Built using Godot 3.2.2
@@ -15,7 +14,7 @@ Built using Godot 3.2.2
 None
 
 ## Extra Credit
-None
+I replace the capsules with the animated characters
 
 ## Created by 
 Dongxin Tian
